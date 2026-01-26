@@ -1,4 +1,4 @@
-import db from "../DB/db.js";
+import db from "../db/db.js";
 export const createTeacher = (req, res) => {
   const { name, subject } = req.body;
   const sql =

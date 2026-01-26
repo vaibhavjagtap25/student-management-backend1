@@ -1,5 +1,5 @@
 import bcrypt from "bcrypt";
-import db from "../DB/db.js";
+import db from "../db/db.js";
 
 
 /* ================= REGISTER ================= */
